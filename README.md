@@ -1,5 +1,5 @@
 # Yelp Camp
-- YelpCamp is a full-stack website project where users can register account, log in, viewcampgrounds, create campgrounds and review campgrounds. 
+- YelpCamp is a full-stack website project where users can register account, log in, view campgrounds, create campgrounds and review campgrounds. 
 
 - This project is created alongside the Udemy course - The Web Developer Bootcamp by Colt Steele.
 
@@ -17,24 +17,24 @@
 - Create, edit and delete campgrounds
 - Create, and delete reviews
 - Upload campground photos
-- Display campground location on MapBox
+- Display campground location using MapBox
 
 #### Other Enhancements:
 
-- All the data will pe persistent and is stored in the MongoDB .
+- All data is persistent and stored in the MongoDB
 - Update campground photos when editing campgrounds
 - Improve image load time on the landing page using Cloudinary
 - Use Helmet to strengthen security
 
 ## Build with
 
-#### Front-end
+#### Frontend
 
 - EJS
 - Bootstrap
 - MapBox
 
-#### Back-end
+#### Backend
 
 - Express
 - MongoDB
